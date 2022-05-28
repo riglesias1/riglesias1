@@ -18,9 +18,9 @@ I'm a Backend developer working with Python, and currently learning ReactJS.
 
 ## What i'm up to
 
-- 🔭 I’m working with @ [Python](https://python.org).
+- 🔭 I’m working with [Python](https://python.org).
 - 🌱 I’m currently learning [ReactJS](https://reactjs.org).
-- 💬 Actually working in [Leafnoise](https://leafnoise.io).
+- 💬 Actually working in @[Leafnoise](https://leafnoise.io).
 
 <br />
 
