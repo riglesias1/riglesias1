@@ -1,12 +1,10 @@
 ## Hello World 👋
 I'm a Backend developer working with Python, and currently learning ReactJS.
 
-<br/>
-
-<a href="https://linkedin.com/in/rodrigo-iglesias1">
+<a href="https://linkedin.com/in/rodrigo-iglesias1" target="_blank">
 <img align="left" alt="Rodrigo Iglesias LinkedIN" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
 </a>
-<a href="https://instagram.com/rodrii.iglesias">
+<a href="https://instagram.com/rodrii.iglesias" target="_blank">
 <img align="left" alt="Rodrigo Iglesias Instagram" width="22px" src="https://icongr.am/fontawesome/instagram.svg?size=128&color=70c8ff" />
 </a>
 
